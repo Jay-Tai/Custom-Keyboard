@@ -4,4 +4,4 @@ The keyboard includes all the correct wiring for the backlights, the switches, t
 
 I acutally got really lucky with the microcontroller - I had JUST ENOUGH ports to house all the different pins that everything in my keyboard requires.  
 
-Tkae a look at the timelapse and the final schematic!
+Take a look at the schematic image in the folder, and the timelapse here!: https://canva.link/jdkn7mn0ot2y70i
