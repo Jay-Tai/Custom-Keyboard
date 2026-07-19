@@ -11,4 +11,4 @@ Here is what the PCB looks like without the shell:
 
 Here is what the shell looks like with the PCB:
 <br/>
-<img src="assets/3.png" width="600" style=border-radius:10/>
+<img src="assets/3.png" width="600"/>
