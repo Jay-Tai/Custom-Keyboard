@@ -6,7 +6,9 @@ Here is what the shell looks like without the PCB:
 <img src="assets/1.png" width="600"/>
 
 Here is what the PCB looks like without the shell:
-![PCB Without the Shell](assets/2.png)
+<br/>
+<img src="assets/2.png" width="600"/>
 
 Here is what the shell looks like with the PCB:
-![Shell with the PCB](assets/3.png)
+<br/>
+<img src="assets/3.png" width="600" style=border-radius:10/>
