@@ -1,4 +1,5 @@
 <b>My KiCad Schematic!</b>
+<i>4 hours and 27 minutes logged</i>
 (Yes, it was all done in a day haha)
 
 The schematic includes all the components of my keyboard!
