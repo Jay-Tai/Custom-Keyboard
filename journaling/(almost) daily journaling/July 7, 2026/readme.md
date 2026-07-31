@@ -1,6 +1,6 @@
-<b>My KiCad Schematic!</b>
-<i>4 hours and 27 minutes logged</i>
-(Yes, it was all done in a day haha)
+<p><b>My KiCad Schematic!</b></p>
+<p><i>4 hours and 27 minutes logged</i></p>
+<p>(Yes, it was all done in a day haha)</p>
 
 The schematic includes all the components of my keyboard!
 The keyboard includes all the correct wiring for the backlights, the switches, the Display, and the Rotary Encoder that is going to be part of the final keyboard.
