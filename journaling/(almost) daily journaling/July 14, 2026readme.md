@@ -1,3 +1,6 @@
+<p><b>Fixing my PCB</b></p>
+<p><i>1 hour and 45 minutes logged</i></p>
+
 Today, I made a HUGE realization: I placed the LEDs on the wrong side of the PCB, meaning that all the LEDs need to be rewired! This is me trying to figure it out :P
 How cool is this silkscreen tho? :D
 
