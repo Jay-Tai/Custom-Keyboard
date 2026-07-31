@@ -1,0 +1,6 @@
+<p><b>Fixing my PCB</b></p>
+<p><i>1 hour and 45 minutes logged</i></p>
+
+Today, I made a HUGE realization: I placed the LEDs on the wrong side of the PCB, meaning that all the LEDs need to be rewired! This is me trying to figure it out :P
+How cool is this silkscreen tho? :D
+![Image](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDExNjEsInB1ciI6ImJsb2JfaWQifX0=--1ee9e82394c42c3ebc6a7690e2242087a30ca1bb/Screenshot%202026-07-12%20at%2011.15.13%E2%80%AFPM.png)
