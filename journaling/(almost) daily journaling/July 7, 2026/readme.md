@@ -5,6 +5,5 @@ Today, I finished up all of the wiring for my project, fixed any errors, and als
 Here's a quick photo of it! :D
 <p></p>
 ![Image](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA4MjEsInB1ciI6ImJsb2JfaWQifX0=--2330b108b7a6519673a7eb9e05b2634df843f6c5/Screenshot%202026-07-06%20at%2011.41.50%E2%80%AFPM.png)
-<p></p>
 Tomorrow, I am going to finish my PCB, and start the case!
 IM SO EXCITEDDDD
