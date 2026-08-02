@@ -1,4 +1,4 @@
-## Firmware overview
+# Firmware overview
 This hackpad's firmware has been designed in [QMK](https://qmk.fm/). It is a powerful, yet simple way to design keyboards that have a lot of useful functions!
 - The rotary encoder controls the volume of the computer, and when you hold FN, you can scroll. When you press the encoder, it will mute/unmute your zoom call.
 - The 65 keys all perform different functions that can be adjusted by simply changing it's function in keymap.c.
