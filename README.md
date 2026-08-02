@@ -10,6 +10,8 @@ I built this project to participate in [Hack Club's Keeb YSWS](http://keeb.hackc
 - EC11 Rotary Encoder to control volume, scroll through pages, or press down to mute/unmute your zoom meeting
 - 65 Akko V3 Cream Yellow Pro keys for your satisfying typing experience needs :D (Cheap and sounds like heaven)
 - Topographic look all-around (Part of the PCB is exposed)
-
+w
 ## CAD Model
-All the parts of this project fit together using 
+All the parts of this project fit together using 2 m2.5 screws.
+It has 2 seperate printed pirces, one to be the main base, and the other one to cover the electronics.
+![Cad Model](assets/cad-model.png)
