@@ -18,7 +18,7 @@ It has 2 seperate printed pirces, one to be the main base, and the other one to 
 Made in OnShape.
 
 ## PCB
-Here's my PCB! it was made in OnShape. Some footprints and schematics were from marbastlib. I made the silkscreen in Adobe Illustrator.
+Here's my PCB! it was made in KiCad. Some footprints and schematics were from marbastlib. I made the silkscreen in Adobe Illustrator.
 #### Here is my schematic
 ![My schematic!](assets/pcb-schematic.png)
 #### Here is my PCB
