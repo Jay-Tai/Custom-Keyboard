@@ -4,3 +4,5 @@ This hackpad's firmware has been designed in [QMK](https://qmk.fm/). It is a pow
 - The 65 keys all perform different functions that can be adjusted by simply changing it's function in keymap.c.
 - The OLED starts off with a startup animation, and then after, it turns into a cat! Specifically, the Bongocat!! <b>Credits to [nwii's bongocat](https://github.com/nwii/oledbongocat) for the source code!</b>
 - All keys have SK6812 Mini-E LEDs beneath them and when you press a key, its LED will light up in a reactive typing way. Take a look [here](https://youtu.be/7f3usatOIKM?t=229)!
+## Note
+The following code that is attached is simply the source code. To get the original firmware, please go to the production folder in the repository home.
