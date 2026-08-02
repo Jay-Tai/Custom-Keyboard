@@ -1,5 +1,5 @@
 # The Megaboard
-![The Megaboard!]()
+![The Megaboard!](assets/main-image.png)
 The megaboard is a custom 60% keyboard that has 65 keys in total, and has many unique functions that truly make this project a one-of-the-kind.
 
 I built this project to participate in [Hack Club's Keeb YSWS](http://keeb.hackclub.com/), and fell in love with the development of keyboards very quickly after I started!
