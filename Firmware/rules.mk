@@ -1,0 +1,10 @@
+RGBLIGHT_ENABLE = no
+RGB_MATRIX_ENABLE = yes
+WS2812_DRIVER = vendor
+
+SRC += led_config.c
+
+OLED_ENABLE = yes
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+WPM_ENABLE = yes
