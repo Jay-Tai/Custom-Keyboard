@@ -1,3 +1,4 @@
+# The final keyboard! (WOOOOOO)
 The keyboard is finally finished!
 
 I spent around 60 hours on it (Some time hasn't been logged as I forgot to click record, however, over 50 hours have been logged), and it is finally finished!
