@@ -24,7 +24,7 @@ Here's my PCB! it was made in KiCad. Some footprints and schematics were from ma
 #### Here is my PCB
 ![My PCB Design](assets/pcb-design.png)
 
-The PCB has 4 copper layers, and all the parts that are needed are part of the PCB design. I think in retrospect, I should have moved the arrow keys to the bottom of the PCB, instead of it being at the top.
+The PCB has 2 copper layers, and all the parts that are needed are part of the PCB design. I think in retrospect, I should have moved the arrow keys to the bottom of the PCB, instead of it being at the top.
 
 ## Firmware overview
 This hackpad's firmware has been designed in [QMK](https://qmk.fm/). It is a powerful, yet simple way to design keyboards that have a lot of useful functions!
